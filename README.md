@@ -4,6 +4,8 @@ An isometric Tower Defense game written in TypeScript.
 
 We are inside human body, protecting the heart from SARS-CoV-2 and HIV. Build immunity towers to destroys the viruses. Be careful, the patogens can adapt to the environment.
 
+Demo: http://tower-defense.wezi.cz/
+
 ![Alt text](./docs/image.png)
 
 ## Setup
